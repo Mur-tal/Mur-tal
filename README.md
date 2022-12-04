@@ -8,11 +8,11 @@
 
 ### :man_technologist: About Me :
 
-- 👋 Hi, I’m @Mur-tal
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Sofware Engineering
-- 💞️ I’m looking to collaborate with and learn from Full Stack Web Developers
-- 📫 How to reach me 
+-  Hi, I’m @Mur-tal
+-  I’m interested in Programming
+-  I’m currently learning Sofware Engineering
+-  I’m looking to collaborate with and learn from Full Stack Web Developers
+<!--- 📫 How to reach me ---> 
 
 ##
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mur-tal&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
